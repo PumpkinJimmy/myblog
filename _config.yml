@@ -102,7 +102,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: 
+    github: git@github.com:PumpkinJimmy/PumpkinJimmy.github.io.git
+  branch: master
 
 markdown_it_plus:
     highlight: true
