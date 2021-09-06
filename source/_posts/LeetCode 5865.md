@@ -7,6 +7,8 @@ mathjax: true
 
 <https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms/>
 
+## 思路
+
 **DP + 前缀和**
 
 观察到关键结论：**每个nextVisit访问都是“往回走”的，因此前进只能是因为偶数次到达，因此首次访问位置i时前i-1个位置都是偶数次访问**
@@ -22,7 +24,8 @@ $$
 
 注意：由于存在取模，前缀和可能会减出负数，而C++求模是保留符号的，因此要处理符号。
 
-代码：
+## 代码
+
 ```cpp
 #define mod 1000000007
 class Solution {
