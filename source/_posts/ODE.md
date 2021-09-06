@@ -1,9 +1,13 @@
 ---
 title: My New Post
 date: 2021-08-22 12:37:43
+categories:
+- [算法,数值计算]
+tags:
+- 数值计算
+- 常微分方程
 mathjax: true
 ---
-# 涂鸦一下哈，让我知道自动部署成功了
 # Ordinary Differential Equation
 
 ## Definition
