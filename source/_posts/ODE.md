@@ -6,6 +6,7 @@ categories:
 tags:
 - 数值计算
 - 常微分方程
+- 专业课
 mathjax: true
 ---
 # Ordinary Differential Equation
