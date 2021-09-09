@@ -1,3 +1,10 @@
+---
+title: Digit System
+date: 2021-06-19 11:15:15
+updated: 2021-06-19 11:15:15
+tags:
+- 专业课
+---
 # Digit System
 
 ## Technology

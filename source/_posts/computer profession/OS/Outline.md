@@ -1,3 +1,10 @@
+---
+title: Outline
+date: 2021-06-15 11:38:32
+updated: 2021-06-15 11:38:32
+tags:
+- 专业课
+---
 # OS Outline
 - Intro
   - OS的核心功能

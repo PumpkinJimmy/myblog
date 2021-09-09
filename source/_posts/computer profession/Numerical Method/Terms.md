@@ -1,3 +1,10 @@
+---
+title: Terms
+date: 2021-06-22 23:03:54
+updated: 2021-06-22 23:03:54
+tags:
+- 专业课
+---
 ## 词汇表
 - numerical 数值的
 - approximation 近似

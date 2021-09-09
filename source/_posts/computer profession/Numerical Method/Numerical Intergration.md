@@ -1,3 +1,10 @@
+---
+title: Numerical Intergration
+date: 2021-05-31 17:51:13
+updated: 2021-05-31 17:51:13
+tags:
+- 专业课
+---
 # Numerical Intergration（数值积分）
 
 ## Trapezoid's Rule（梯形法）

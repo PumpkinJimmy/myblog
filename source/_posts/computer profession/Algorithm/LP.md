@@ -1,3 +1,10 @@
+---
+title: LP
+date: 2021-07-07 13:02:35
+updated: 2021-07-07 13:02:35
+tags:
+- 专业课
+---
 
 ## LP(Linear Programming)
 

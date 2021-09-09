@@ -1,3 +1,10 @@
+---
+title: MIPS Instr Handbook
+date: 2020-10-09 11:41:03
+updated: 2020-10-09 11:41:03
+tags:
+- 专业课
+---
 ## MIPS Instructions Quick Handbook
 ### Arithmetic
 ```mips

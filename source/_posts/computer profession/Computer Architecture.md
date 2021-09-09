@@ -1,3 +1,10 @@
+---
+title: Computer Architecture
+date: 2021-01-20 10:57:33
+updated: 2021-01-20 10:57:33
+tags:
+- 专业课
+---
 - [Computer Architecture](#computer-architecture)
   - [Term Reference](#term-reference)
   - [1. Introduction](#1-introduction)

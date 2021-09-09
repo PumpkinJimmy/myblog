@@ -1,3 +1,10 @@
+---
+title: Outline
+date: 2021-06-11 11:36:02
+updated: 2021-06-11 11:36:02
+tags:
+- 专业课
+---
 # Discrete Math Outline
 - Intro
   - 逻辑语言

@@ -1,3 +1,10 @@
+---
+title: Calculator Guide
+date: 2021-05-31 16:56:15
+updated: 2021-05-31 16:56:15
+tags:
+- 专业课
+---
 ## 卡西欧计算器使用
 - 字母：Alpha+对应字母
 - 设置角度制、弧度制：Shift-Mode(Set Up)
