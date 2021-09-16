@@ -115,3 +115,16 @@ glBindVertexArray();
 
 **陷阱：glm::mat4必须显式初始化**:
 `glm::mat4 trans = glm::mat4(1.0f);`
+
+
+### 摄像机变换与Lookat
+
+所谓摄像机变换，其实是把世界坐标系上的点变换到摄像机坐标系。
+
+利用基变换思维可以写出变换矩阵。
+
+`glm::lookat`可以便捷地生成这样地变换矩阵
+
+```cpp
+trans = glm::lookat(cameraPos, lookatPoint, cameraUp);
+```
