@@ -74,10 +74,19 @@ glBindVertexArray();
   - 使用`glBindBuffer(GL_ARRAY_BUFFER, your_vbo_buf)`来指明渲染哪一块VBO中存放的顶点
   - 为了让着色器可以正确解释VBO中的字节，必须手动指明顶点属性的存储模式（其实相当于struct指明内存分布）
   - 使用`glVertexAttribPointer`指明顶点属性的存储模式
-  - 以上工作需要每次渲染都重复一遍
+  - 需要使用`glEnableVertexAttribArray`来启用属性
+  - **数据只需要传输一次，以后就不必再重复传输了**
 - VAO
   - 所有的VBO配置工作只要做一遍，之后直接从VAO中载入配置然后渲染
-- EBO：减少重复顶点（待完善）
+  - 可以理解为一个“配置录制工具”，将配置录制到VAO中，然后每次再载入配置即可
+  - 存储的配置包括：
+    - `glBind`绑定的是哪一块VBO
+    - `glVertexAttribPointer`配置的顶点属性模式，启用的节点
+    - 绑定的EBO
+  - 其实OpenGL是一个状态机，如果只使用一个VBO，那其实用不上VAO；但考虑到可能使用多个VBO，它们各自对应不同的顶点属性模式，每次更改绑定的VBO，都要重新配置属性，这就很麻烦，因此为每个VBO配套使用一个VAO是有好处的
+- EBO：减少重复顶点
+  - 在VBO中只存储不重复的顶点和它们的属性
+  - 实际渲染的时候使用EBO中的索引值在VBO中取点
 
 ## OpenGL的顶点和PCL的点云的区别
 - OpenGL的Vertex和PCL的Point都是一个具有三维坐标以及其他属性的抽象的“点”
