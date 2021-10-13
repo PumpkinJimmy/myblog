@@ -1,9 +1,10 @@
 ---
 title: Calculator Guide
+tags:
+  - 专业课
+abbrlink: c8795941
 date: 2021-05-31 16:56:15
 updated: 2021-05-31 16:56:15
-tags:
-- 专业课
 ---
 ## 卡西欧计算器使用
 - 字母：Alpha+对应字母

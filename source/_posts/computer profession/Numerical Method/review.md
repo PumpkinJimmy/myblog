@@ -1,9 +1,10 @@
 ---
 title: review
+tags:
+  - 专业课
+abbrlink: 794381c6
 date: 2021-07-03 23:54:52
 updated: 2021-07-03 23:54:52
-tags:
-- 专业课
 ---
 ## Intro
 - **华纳方法的表格**

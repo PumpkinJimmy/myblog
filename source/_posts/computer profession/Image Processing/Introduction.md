@@ -1,9 +1,10 @@
 ---
 title: Introduction
+tags:
+  - 专业课
+abbrlink: ed318fdc
 date: 2021-09-03 10:18:41
 updated: 2021-09-03 10:18:41
-tags:
-- 专业课
 ---
 # 导论
 ## 人眼视觉系统基础

@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 # Tikz Graph
 ## 库的导入
 ```tex

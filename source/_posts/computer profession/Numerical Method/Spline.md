@@ -1,9 +1,10 @@
 ---
 title: Spline
+tags:
+  - 专业课
+abbrlink: 325a50df
 date: 2021-06-24 20:44:24
 updated: 2021-06-24 20:44:24
-tags:
-- 专业课
 ---
 ## Spline（样条）
 

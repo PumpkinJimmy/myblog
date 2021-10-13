@@ -1,9 +1,10 @@
 ---
 title: Outline
+tags:
+  - 专业课
+abbrlink: 88c26b79
 date: 2021-06-11 11:36:02
 updated: 2021-06-11 11:36:02
-tags:
-- 专业课
 ---
 # Discrete Math Outline
 - Intro

@@ -1,9 +1,10 @@
 ---
 title: LP
+tags:
+  - 专业课
+abbrlink: '767e4302'
 date: 2021-07-07 13:02:35
 updated: 2021-07-07 13:02:35
-tags:
-- 专业课
 ---
 
 ## LP(Linear Programming)

@@ -1,9 +1,10 @@
 ---
 title: Introduction
+tags:
+  - 专业课
+abbrlink: ed318fdc
 date: 2021-09-03 10:59:47
 updated: 2021-09-03 10:59:47
-tags:
-- 专业课
 ---
 # CG导论
 图形学的三大子模块（对应三个子领域）：

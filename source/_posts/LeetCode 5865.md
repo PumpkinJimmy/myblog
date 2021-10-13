@@ -1,14 +1,14 @@
 ---
 title: LeetCode 5865 线性DP
-date: 2021-9-6 8:40:0
+date: '2021-9-6 8:40:0'
 categories:
-- [算法,ACM习题]
-
+  - - 算法
+    - ACM习题
 tags:
-- ACM习题
-- DP
-
+  - ACM习题
+  - DP
 mathjax: true
+abbrlink: 3e912b0
 ---
 # LeetCode 5865 访问完房间的第一天
 

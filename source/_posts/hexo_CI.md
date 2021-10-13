@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 # 利用Github的Action功能实现自动部署到Git Page
 关键步骤如下：
 1. 在Github建立Hexo项目仓库和Github项目仓库

@@ -1,9 +1,10 @@
 ---
 title: Signal&System
+tags:
+  - 专业课
+abbrlink: a71c6577
 date: 2021-06-11 17:18:31
 updated: 2021-06-11 17:18:31
-tags:
-- 专业课
 ---
 # Signal & System
 

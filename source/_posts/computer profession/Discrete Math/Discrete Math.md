@@ -1,9 +1,10 @@
 ---
 title: Discrete Math
+tags:
+  - 专业课
+abbrlink: 757b1491
 date: 2021-06-25 23:56:56
 updated: 2021-06-25 23:56:56
-tags:
-- 专业课
 ---
 # 离散数学
 ## 命题逻辑

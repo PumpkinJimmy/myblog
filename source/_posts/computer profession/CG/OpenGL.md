@@ -1,9 +1,10 @@
 ---
 title: OpenGL
+tags:
+  - 专业课
+abbrlink: 38fdccb7
 date: 2021-09-03 10:50:28
 updated: 2021-09-03 10:50:28
-tags:
-- 专业课
 ---
 # OpenGL笔记
 ## GLFW和GLAD

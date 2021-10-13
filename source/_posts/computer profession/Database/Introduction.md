@@ -1,9 +1,10 @@
 ---
 title: Introduction
+tags:
+  - 专业课
+abbrlink: ed318fdc
 date: 2021-08-30 11:37:08
 updated: 2021-08-30 11:37:08
-tags:
-- 专业课
 ---
 # Database Introduction
 ## 为什么不使用文件系统

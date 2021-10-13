@@ -1,9 +1,10 @@
 ---
 title: openGauss
+tags:
+  - 专业课
+abbrlink: d49e7214
 date: 2021-08-31 11:11:18
 updated: 2021-08-31 11:11:18
-tags:
-- 专业课
 ---
 # openGauss
 

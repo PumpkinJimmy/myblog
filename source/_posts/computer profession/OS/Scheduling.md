@@ -1,9 +1,10 @@
 ---
 title: Scheduling
+tags:
+  - 专业课
+abbrlink: b2ce1825
 date: 2021-06-22 10:23:18
 updated: 2021-06-22 10:23:18
-tags:
-- 专业课
 ---
 # 单处理器调度
 

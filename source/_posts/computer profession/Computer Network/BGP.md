@@ -1,9 +1,10 @@
 ---
 title: BGP
+tags:
+  - 专业课
+abbrlink: 580c088a
 date: 2021-06-23 11:09:57
 updated: 2021-06-23 11:09:57
-tags:
-- 专业课
 ---
 # BGP
 ## EGP

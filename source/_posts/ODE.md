@@ -1,13 +1,15 @@
 ---
 title: My New Post
-date: 2021-08-22 12:37:43
 categories:
-- [算法,数值计算]
+  - - 算法
+    - 数值计算
 tags:
-- 数值计算
-- 常微分方程
-- 专业课
+  - 数值计算
+  - 常微分方程
+  - 专业课
 mathjax: true
+abbrlink: 177574ba
+date: 2021-08-22 12:37:43
 ---
 # Ordinary Differential Equation
 

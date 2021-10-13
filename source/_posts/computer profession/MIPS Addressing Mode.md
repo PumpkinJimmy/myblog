@@ -1,9 +1,10 @@
 ---
 title: MIPS Addressing Mode
+tags:
+  - 专业课
+abbrlink: '4693e379'
 date: 2020-10-09 11:41:01
 updated: 2020-10-09 11:41:01
-tags:
-- 专业课
 ---
 # MIPS Addressing Mode
 1. Immediate addressing

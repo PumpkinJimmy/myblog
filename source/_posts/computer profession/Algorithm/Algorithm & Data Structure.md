@@ -1,9 +1,10 @@
 ---
 title: Algorithm & Data Structure
+tags:
+  - 专业课
+abbrlink: b8bc5a98
 date: 2021-06-22 23:14:38
 updated: 2021-06-22 23:14:38
-tags:
-- 专业课
 ---
 # Algorithm & Data Structure Note
 

@@ -1,9 +1,10 @@
 ---
 title: Outline
+tags:
+  - 专业课
+abbrlink: 88c26b79
 date: 2021-06-09 15:59:15
 updated: 2021-06-09 15:59:15
-tags:
-- 专业课
 ---
 # Outline
 ## Intro

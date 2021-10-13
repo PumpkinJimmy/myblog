@@ -1,12 +1,14 @@
 ---
 title: Gazebo
-date: 2021-09-07 10:35:42
 categories:
-- [机器人, 仿真]
+  - - 机器人
+    - 仿真
 tags:
-- Gazebo
-- 机器人
-- 仿真
+  - Gazebo
+  - 机器人
+  - 仿真
+abbrlink: c795f955
+date: 2021-09-07 10:35:42
 ---
 # Gazebo笔记
 ## 仿真机器人描述

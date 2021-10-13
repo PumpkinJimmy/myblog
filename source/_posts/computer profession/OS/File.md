@@ -1,9 +1,10 @@
 ---
 title: File
+tags:
+  - 专业课
+abbrlink: 2cad992e
 date: 2021-07-01 11:15:34
 updated: 2021-07-01 11:15:34
-tags:
-- 专业课
 ---
 # 文件系统
 ## 基本概念

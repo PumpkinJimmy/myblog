@@ -1,9 +1,10 @@
 ---
 title: Computer Network
+tags:
+  - 专业课
+abbrlink: acc2fc2f
 date: 2021-06-02 10:46:51
 updated: 2021-06-02 10:46:51
-tags:
-- 专业课
 ---
 # Computer Network
 ## Introduction

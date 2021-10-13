@@ -1,9 +1,10 @@
 ---
 title: Sliding Window
+tags:
+  - 专业课
+abbrlink: da24fffd
 date: 2021-06-09 16:52:27
 updated: 2021-06-09 16:52:27
-tags:
-- 专业课
 ---
 ## Sliding Window
 在ARQ协议的基础上加上以下约束/特性构成基本滑动窗口策略：

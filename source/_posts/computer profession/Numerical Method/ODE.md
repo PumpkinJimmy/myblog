@@ -1,9 +1,10 @@
 ---
 title: ODE
+tags:
+  - 专业课
+abbrlink: 16242cf1
 date: 2021-06-21 17:10:03
 updated: 2021-06-21 17:10:03
-tags:
-- 专业课
 ---
 # Ordinary Differential Equation
 

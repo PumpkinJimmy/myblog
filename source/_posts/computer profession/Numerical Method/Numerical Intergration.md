@@ -1,9 +1,10 @@
 ---
 title: Numerical Intergration
+tags:
+  - 专业课
+abbrlink: f4b1752
 date: 2021-05-31 17:51:13
 updated: 2021-05-31 17:51:13
-tags:
-- 专业课
 ---
 # Numerical Intergration（数值积分）
 

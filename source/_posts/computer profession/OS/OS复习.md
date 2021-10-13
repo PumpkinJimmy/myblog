@@ -1,9 +1,10 @@
 ---
 title: OS复习
+tags:
+  - 专业课
+abbrlink: 1685efe6
 date: 2021-07-06 13:10:15
 updated: 2021-07-06 13:10:15
-tags:
-- 专业课
 ---
 # OS复习
 ## 计组

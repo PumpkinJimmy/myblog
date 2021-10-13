@@ -1,9 +1,10 @@
 ---
 title: Numerical Method
+tags:
+  - 专业课
+abbrlink: cd8936c3
 date: 2021-05-31 16:39:51
 updated: 2021-05-31 16:39:51
-tags:
-- 专业课
 ---
 # Numerical Method
 ## Horner's Method
