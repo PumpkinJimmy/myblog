@@ -1,5 +1,6 @@
 ---
 title: Policy-based RL & Policy Function Approximation
+abbrlink: 80d5092d
 ---
 # Policy-based RL & Policy Function Approximation
 

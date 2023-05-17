@@ -1,7 +1,7 @@
 ---
-date: 2021-10-25 08:34:37
 title: Alpha-Beta剪枝
-
+abbrlink: b6dc1679
+date: 2021-10-25 08:34:37
 ---
 
 # Alpha-Beta剪枝

@@ -1,5 +1,6 @@
 ---
 title: AlphaGo详解
+abbrlink: 293d558
 ---
 # AlphaGo详解
 

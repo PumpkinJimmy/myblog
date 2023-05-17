@@ -1,7 +1,7 @@
 ---
-date: 2021-10-14 14:37:30
 title: Model-free Reinforcement Learning
-
+abbrlink: 6cab2481
+date: 2021-10-14 14:37:30
 ---
 # Model-free Reinforcement Learning
 

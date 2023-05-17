@@ -1,7 +1,7 @@
 ---
-date: 2021-09-24 15:59:16
 title: GDCPC2021 A An easy problem
-
+abbrlink: e5579406
+date: 2021-09-24 15:59:16
 ---
 # GDCPC2021 A An easy problem
 突破口：

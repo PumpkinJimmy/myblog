@@ -1,7 +1,7 @@
 ---
-date: 2021-10-18 16:50:59
 title: 大数据计算：MapReduce
-
+abbrlink: cf439812
+date: 2021-10-18 16:50:59
 ---
 # 大数据计算：MapReduce
 MapReduce提供的是**分布式并行计算**架构

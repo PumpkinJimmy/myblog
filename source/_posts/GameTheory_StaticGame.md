@@ -1,7 +1,7 @@
 ---
-date: 2021-11-25 14:50:05.008737+08:00
 title: Static Game（待完善）
-
+abbrlink: fe48acc4
+date: 2021-11-25 06:50:05
 ---
 # Static Game（待完善）
 

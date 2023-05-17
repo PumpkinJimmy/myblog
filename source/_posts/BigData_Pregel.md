@@ -1,7 +1,7 @@
 ---
-date: 2021-12-06 17:25:36.136623+08:00
 title: Pregel
-
+abbrlink: 23b072fe
+date: 2021-12-06 09:25:36
 ---
 # Pregel
 

@@ -1,7 +1,7 @@
 ---
-date: 2021-12-06 23:07:59.819107+08:00
-title: Review of CH 5,6,9
-
+title: 'Review of CH 5,6,9'
+abbrlink: 9150c99d
+date: 2021-12-06 15:07:59
 ---
 # Review of CH 5,6,9
 

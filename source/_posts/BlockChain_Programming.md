@@ -1,7 +1,7 @@
 ---
-date: 2021-12-09 10:23:32.535944+08:00
 title: Solidity合约编程
-
+abbrlink: 9403bcca
+date: 2021-12-09 02:23:32
 ---
 # Solidity合约编程
 ## QuickStart

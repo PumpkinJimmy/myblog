@@ -1,7 +1,7 @@
 ---
-date: 2021-12-09 14:22:07.984555+08:00
 title: Dynamic Game
-
+abbrlink: f1d528b0
+date: 2021-12-09 06:22:07
 ---
 # Dynamic Game
 ## 与Static Game的区别
