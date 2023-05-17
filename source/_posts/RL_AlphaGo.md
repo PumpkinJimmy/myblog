@@ -1,3 +1,6 @@
+---
+title: AlphaGo详解
+---
 # AlphaGo详解
 
 ## 简介（待完善）

@@ -1,5 +1,8 @@
 ---
 abbrlink: '0'
+date: 2021-08-29 23:13:43.287202+08:00
+title: 利用Github的Action功能实现自动部署到Git Page
+
 ---
 # 利用Github的Action功能实现自动部署到Git Page
 关键步骤如下：

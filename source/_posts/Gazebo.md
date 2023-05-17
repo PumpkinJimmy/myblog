@@ -1,14 +1,15 @@
 ---
-title: Gazebo
-categories:
-  - - 机器人
-    - 仿真
-tags:
-  - Gazebo
-  - 机器人
-  - 仿真
 abbrlink: c795f955
+categories:
+- - 机器人
+  - 仿真
 date: 2021-09-07 10:35:42
+tags:
+- Gazebo
+- 机器人
+- 仿真
+title: Gazebo
+
 ---
 # Gazebo笔记
 ## 仿真机器人描述

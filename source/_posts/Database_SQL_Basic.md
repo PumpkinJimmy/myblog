@@ -1,13 +1,14 @@
 ---
-title: 基础SQL
-categories:
-  - 数据库
-tags:
-  - 数据库
-  - SQL
-  - 专业课
 abbrlink: fd62bcd9
+categories:
+- 数据库
 date: 2021-09-13 10:06:52
+tags:
+- 数据库
+- SQL
+- 专业课
+title: 基础SQL
+
 ---
 
 # 基础SQL

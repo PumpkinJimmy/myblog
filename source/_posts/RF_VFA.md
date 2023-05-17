@@ -1,5 +1,6 @@
 ---
 date: 2021-10-21 14:21:48
+title: Reinforcement Learning with Value Function Approximation
 ---
 # Reinforcement Learning with Value Function Approximation
 

@@ -1,3 +1,6 @@
+---
+title: Policy-based RL & Policy Function Approximation
+---
 # Policy-based RL & Policy Function Approximation
 
 ## Overview

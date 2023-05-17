@@ -1,6 +1,8 @@
 ---
 abbrlink: '0'
 date: 2021-09-14 16:59:12
+title: Leetcode 2003 DFS, Mex
+
 ---
 # Leetcode 2003 DFS, Mex
 <https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree/>

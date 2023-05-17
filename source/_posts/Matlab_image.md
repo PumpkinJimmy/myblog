@@ -1,6 +1,8 @@
 ---
 abbrlink: '0'
 date: 2021-09-10 22:18:57
+title: Matlab 图像处理
+
 ---
 # Matlab 图像处理
 ```matlab

@@ -1,14 +1,15 @@
 ---
-title: 基于启发式合并的O(lglgn)并查集算法
-categories:
-  - 算法
-tags:
-  - 算法
-  - 算法分析
-  - 摊还分析
-  - 并查集
 abbrlink: 6ec1fd6c
+categories:
+- 算法
 date: 2021-09-12 22:19:51
+tags:
+- 算法
+- 算法分析
+- 摊还分析
+- 并查集
+title: 基于启发式合并的O(lglgn)并查集算法
+
 ---
 
 # 基于启发式合并的O(lglgn)并查集算法

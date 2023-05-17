@@ -1,5 +1,6 @@
 ---
 abbrlink: '0'
+title: Tikz Graph
 ---
 # Tikz Graph
 ## 库的导入
