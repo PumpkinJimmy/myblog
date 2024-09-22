@@ -1,0 +1,31 @@
+---
+title: 随笔：Kodi配置
+date: 2023-06-22T02:10:23+08:00
+tags:
+- HTPC
+- Kodi
+- 家庭影音
+- 嵌入式
+categories:
+- [HTPC, Kodi]
+---
+
+- 控制问题
+  - 在`Advanced`级别的`Setting/System/Input`中通过禁用鼠标来隐藏鼠标
+  - 问题是2.4G遥控器驱动的默认逻辑其实是一个“看上去像遥控器的鼠标”，禁用鼠标之后遥控器用不了了
+- 中文
+  - 需要联网获得中文插件
+  - 在皮肤设置中将字体设置为Arial Base的样式
+  - 在Regional中设置中文
+  - 在Regional中将字符集设置为GBK
+- 控制器配置
+  - 集中在System/Input里面
+  - 小心*配置等级需要Advanced*才能使用部分重要设置
+  - 联网情况下可以在configure controller的more里面获取更多驱动（包括电视遥控器，但是好像不总是适配）
+- 支持遥控服务
+  - 在Service/Control
+
+- 痛点
+  - 老机器兼容较差
+  - **观看国内平台的视频和影视资源非常困难**
+    - 明明Web界面是现成的，但为了在Kodi中观看却不得不大费周章自己爬取破解
