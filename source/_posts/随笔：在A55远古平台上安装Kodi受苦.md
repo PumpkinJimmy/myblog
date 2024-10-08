@@ -1,6 +1,7 @@
 ---
 title: 随笔：在A55远古平台上安装Kodi受苦
-date: 2023-06-22T23:58:39+08:00
+abbrlink: 24cdadee
+date: 2023-06-22 15:58:39
 tags:
 categories:
 ---

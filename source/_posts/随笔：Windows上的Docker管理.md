@@ -1,13 +1,14 @@
 ---
 title: 随笔：Windows上的Docker管理
-date: 2023-06-17T22:06:32+08:00
 tags:
-- Docker
-- 云计算
-- 虚拟机
-- Windows
+  - Docker
+  - 云计算
+  - 虚拟机
+  - Windows
 categories:
-- 云计算
+  - 云计算
+abbrlink: 8ce277fd
+date: 2023-06-17 14:06:32
 ---
 
 

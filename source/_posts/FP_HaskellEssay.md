@@ -1,3 +1,7 @@
+---
+abbrlink: '0'
+title: 基于Haskell的函数式入门随笔
+---
 # 基于Haskell的函数式入门随笔
 
 FP这块的一些关键词：
